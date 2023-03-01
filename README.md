@@ -1,3 +1,4 @@
 ### Olá me chamo Joaquim David ou Aluno999
-![Status do build](https://img.shields.io/github/workflow/status/<Aluno999>/<Aluno999>/<python-app.yml>?label=build&logo=github)
+[![Contribuições recentes](https://github-readme-stats.vercel.app/api?username=Aluno999&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ![dog](https://imgur.com/drIYZm0.gif)
