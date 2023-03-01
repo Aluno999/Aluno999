@@ -1,5 +1,5 @@
 ### Olá me chamo Joaquim David ou Aluno999
-[Snake animation](https://github.com/Aluno999/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+[dog]([https://github.com/Aluno999/rafaballerini2/blob/output/github-contribution-grid-snake.svg](https://imgur.com/5Xn6xpa))
 <!--
 **Aluno999/Aluno999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
