@@ -1,4 +1,6 @@
-### Olá me chamo Joaquim David ou Aluno999
+### Olá me chamo Joaquim David O Souza 
+estudo Sistemas de Informação
+
 
 <div>
  <a href="https://github.com/Aluno999">
@@ -13,4 +15,4 @@ O mundo físico é uma dimensão limitada, já que é limitado pela percepção 
 
 A dimensão do espírito é invisível, mas não é inacessível.
 
-![dog](https://imgur.com/drIYZm0.gif)
+![dog]([https://imgur.com/drIYZm0.gif](https://tenor.com/bfCOR.gif))
