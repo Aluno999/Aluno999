@@ -15,4 +15,4 @@ O mundo físico é uma dimensão limitada, já que é limitado pela percepção 
 
 A dimensão do espírito é invisível, mas não é inacessível.
 
-![anime](https://imgur.com/rjoaQW8)
+![Alt Text](https://imgur.com/H7NO4oX.giff)
